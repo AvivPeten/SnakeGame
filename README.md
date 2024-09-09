@@ -55,12 +55,8 @@ This project is a basic implementation of the Snake Game using Python’s Turtle
 
 ## How to Play
 
-- **Up Arrow Key**: Move the snake up
-- **Down Arrow Key**: Move the snake down
-- **Left Arrow Key**: Move the snake left
-- **Right Arrow Key**: Move the snake right
+Use the arrow keys to control the snake’s direction 🐍
 
-The objective of the game is to eat the green food that appears on the screen. Each time the snake eats food, it grows longer and your score increases. The game ends if the snake collides with the screen boundaries or itself.
 
 ---
 
